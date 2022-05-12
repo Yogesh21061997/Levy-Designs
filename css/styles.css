@@ -93,6 +93,12 @@ a.hover{
 .copyright{
   color:#7FB5FF;
 }
+.service{
+font-size: 1.6rem;
+}
+.tools{
+  font-size: 1.6rem;
+}
 
 .btn {
   background: #25e8d8;
